@@ -54,4 +54,4 @@ client.on('messageCreate', message => {
 
 
 
-client.login('OTE5MDc1NzgzNDM4Mzc2OTgw.YbQiBg.WlIm3rb8P_Z8kNifrmsVxaeUxqo');
+client.login('OTE5MDc1NzgzNDM4Mzc2OTgw.YbQiBg.ZHBGeB8aULs2HyqQCInLT_z3b0o');
